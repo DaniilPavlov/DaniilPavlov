@@ -1,7 +1,7 @@
 <!-- github.com/DaniilPavlov/DaniilPavlov -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=02569B&amp;height=180&amp;section=header&amp;text=Daniil%20Pavlov&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Senior%20Flutter%20%26%20Android%20Engineer&amp;descAlignY=55&amp;descSize=18" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=02569B&amp;height=180&amp;section=header&amp;text=Daniil%20Pavlov&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Flutter%Android%20%2F%KMP%20Engineer&amp;descAlignY=55&amp;descSize=18" width="100%" alt="header"/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Flutter+%C2%B7+Android+%C2%B7+KMP;Shipping+cross-platform+apps" alt="Typing SVG"/>
