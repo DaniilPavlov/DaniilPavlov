@@ -1,6 +1,8 @@
 <!-- github.com/DaniilPavlov/DaniilPavlov -->
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=02569B&amp;height=180&amp;section=header&amp;text=Daniil%20Pavlov&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Senior%20Flutter%20%26%20Android%20Engineer&amp;descAlignY=55&amp;descSize=18" width="100%" alt="header"/>
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Flutter+%C2%B7+Android+%C2%B7+KMP;Shipping+cross-platform+apps" alt="Typing SVG"/>
   </a>
@@ -43,6 +45,18 @@
 <div align="center">
   <img height="180" src="https://github-readme-stats.shion.dev/api?username=DaniilPavlov&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="stats"/>
   <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=DaniilPavlov&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=DaniilPavlov&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaniilPavlov&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true&area_color=02569B" width="100%" alt="activity graph"/>
 </div>
 
 ---
@@ -103,6 +117,20 @@
   <a href="https://github.com/DaniilPavlov/f1_kmp">
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=DaniilPavlov&repo=f1_kmp&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="f1_kmp"/>
   </a>
+</div>
+
+---
+
+### Contribution Snake
+
+<!-- Appears after: Actions → Generate Snake -->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaniilPavlov/DaniilPavlov/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaniilPavlov/DaniilPavlov/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/DaniilPavlov/DaniilPavlov/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </div>
 
 ---
