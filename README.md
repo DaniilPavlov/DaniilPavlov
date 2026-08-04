@@ -1,17 +1,19 @@
 <!-- github.com/DaniilPavlov/DaniilPavlov -->
 
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Flutter+%C2%B7+Android+%C2%B7+KMP;Shipping+cross-platform+apps)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Flutter+%C2%B7+Android+%C2%B7+KMP;Shipping+cross-platform+apps" alt="Typing SVG"/>
+  </a>
 
   <br/>
 
-  [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-  [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
-  [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
-  [![KMP](https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/docs/multiplatform.html)
-  [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
-  [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com)
-  [![Web](https://img.shields.io/badge/Web-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://flutter.dev/multi-platform/web)
+  <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></a>
+  <a href="https://dart.dev"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/></a>
+  <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
+  <a href="https://kotlinlang.org/docs/multiplatform.html"><img src="https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="KMP"/></a>
+  <a href="https://developer.android.com"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/></a>
+  <a href="https://developer.apple.com"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/></a>
+  <a href="https://flutter.dev/multi-platform/web"><img src="https://img.shields.io/badge/Web-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Web"/></a>
 </div>
 
 ---
@@ -36,10 +38,40 @@
 
 ---
 
-### Most Used Languages
+### GitHub Stats
 
 <div align="center">
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=DaniilPavlov&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="stats"/>
   <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=DaniilPavlov&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="languages"/>
+</div>
+
+---
+
+### Profile Summary
+
+<!-- Inspired by tipsy/profile-summary-for-github — cards from vn7n24fzkq action -->
+<!-- After push: Actions → GitHub-Profile-Summary-Cards → Run workflow -->
+
+<div align="center">
+  <a href="https://profile-summary-for-github.com/user/DaniilPavlov">
+    <img src="https://img.shields.io/badge/Full%20dashboard-Profile%20Summary-02569B?style=for-the-badge&logo=github&logoColor=white" alt="Open profile summary"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DaniilPavlov/DaniilPavlov/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="profile details"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DaniilPavlov/DaniilPavlov/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="repos per language"/>
+  <img src="https://raw.githubusercontent.com/DaniilPavlov/DaniilPavlov/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="commits per language"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DaniilPavlov/DaniilPavlov/main/profile-summary-card-output/github_dark/3-stats.svg" alt="summary stats"/>
+  <img src="https://raw.githubusercontent.com/DaniilPavlov/DaniilPavlov/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="productive time"/>
 </div>
 
 ---
@@ -81,6 +113,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-DaniilPavlov-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaniilPavlov)
 [![Email](https://img.shields.io/badge/Email-pavlov.dv22%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavlov.dv22@gmail.com)
+[![Profile Summary](https://img.shields.io/badge/Profile%20Summary-02569B?style=for-the-badge&logo=github&logoColor=white)](https://profile-summary-for-github.com/user/DaniilPavlov)
 
 Open to **Flutter / Android / KMP developer** roles
 
