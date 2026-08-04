@@ -44,7 +44,7 @@
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.shion.dev/api?username=DaniilPavlov&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="stats"/>
-  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=DaniilPavlov&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="languages"/>
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=DaniilPavlov&layout=compact&theme=dark&hide_border=true&langs_count=8&exclude_repo=PostgreSQLCourse&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="languages"/>
 </div>
 
 <br/>
