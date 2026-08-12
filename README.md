@@ -105,8 +105,8 @@
   <a href="https://github.com/DaniilPavlov/Coworking">
     <img src="https://github-readme-stats.shion.dev/api/pin/?username=DaniilPavlov&repo=Coworking&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Coworking"/>
   </a>
-  <a href="https://github.com/DaniilPavlov/meykuless_lint_rules">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=DaniilPavlov&repo=meykuless_lint_rules&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="lint rules"/>
+  <a href="https://github.com/DaniilPavlov/DaniilPavlov.github.io">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=DaniilPavlov&repo=DaniilPavlov.github.io&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="DaniilPavlov.github.io"/>
   </a>
 </div>
 
